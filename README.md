@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The ToDo table using AgGrid component for the table layout. 
+It contains Todo description, due date, and priority. All can be sorted out according to the need
+
 ## Available Scripts
 
 In the project directory, you can run:
